@@ -67,3 +67,9 @@
   - `git config --global user.email "khuong30082000@gmail.com"`
   - `git config --global user.name "Khuong Nguyen"`
   ![](./08_GitCommit_Failed.PNG)
+
+12. Ngăn chặn một folder/file nào đó không được push lên Git:
+  - Thông thường sẽ có một số folder rất nặng. Không được phép push lên Git
+  - Ví dụ node_modules
+  - Mình sẽ tạo ra một file có đuôi là `.gitignore`
+  - Trong file đó sẽ khai báo tất cả những folder/file bị chặn lên git
