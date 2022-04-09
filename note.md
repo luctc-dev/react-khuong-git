@@ -60,7 +60,8 @@
   - Phải đảm bảo trước khi pull không có file nào bị thay đổi
   - `git pull origin main`
 
-11. Giành cho máy tính mới chưa xài Git bao giờ: Lực Edit dòng 63
+
+11. Giành cho máy tính mới chưa xài Git bao giờ: Lực Edit dòng 63 khuong edit
   - Phải cấu hình Username và Email để login git
   - Nếu chưa Config thì sẽ không Commit được. Vì git không biết User nào đang Commit
   - `git config --global user.email "khuong30082000@gmail.com"`
