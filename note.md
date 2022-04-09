@@ -49,3 +49,4 @@
 9. Push code
   - Bước 1: `git add .`
   - Bước 2: `git commit -m "Message mô tả công việc"`
+    Cam kết sự thay vừa rồi vào một commit. Có thể check bằng `git log` hoặc VSCode trong tab Commit
