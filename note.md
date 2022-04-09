@@ -50,3 +50,7 @@
   - Bước 1: `git add .`
   - Bước 2: `git commit -m "Message mô tả công việc"`
     Cam kết sự thay vừa rồi vào một commit. Có thể check bằng `git log` hoặc VSCode trong tab Commit
+  - Bước 3: `git push`
+    - Nhánh đã tồn tại: `git push origin main`
+    - Nhánh chưa tồn tại: `git push -u origin main`
+    ![](./07_GitPush_NewBranch.png)
