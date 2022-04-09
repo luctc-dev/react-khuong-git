@@ -54,3 +54,8 @@
     - Nhánh đã tồn tại: `git push origin main`
     - Nhánh chưa tồn tại: `git push -u origin main`
     ![](./07_GitPush_NewBranch.png)
+
+10. Pull code:
+  - Cập nhật Code mới nhất về (Trong trường hợp dùng chung Repo với người khác)
+  - Phải đảm bảo trước khi pull không có file nào bị thay đổi
+  - `git pull origin main`
